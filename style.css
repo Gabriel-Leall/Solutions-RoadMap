@@ -1,0 +1,100 @@
+/* Estilo geral */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px auto;
+  max-width: 800px; /* Limita a largura do currículo */
+  line-height: 1.4;
+  color: #333;
+}
+
+/* Cabeçalho */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Centraliza verticalmente os itens */
+  margin-bottom: 20px;
+  border-bottom: 2px solid #ccc; /* Linha separadora */
+  padding-bottom: 10px;
+}
+
+header div {
+  text-align: left;
+}
+
+.contatos {
+  text-align: right;
+  font-size: 0.9em; /* Reduz o tamanho da fonte para compactar */
+}
+
+h1 {
+  font-size: 1.8em;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.2em;
+  color: green;
+  margin: 5px 0 0 0; /* Remove margem superior extra */
+}
+
+/* Separadores */
+hr {
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+/* Seções */
+section {
+  margin-bottom: 15px;
+}
+
+h2.section-title {
+  font-size: 1.4em;
+  color: #333;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+/* Listas */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+/* Links */
+.contatos ul li a {
+  color: blue;
+  text-decoration: none;
+}
+
+.contatos ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Experiência */
+article h3 {
+  font-size: 1.1em;
+  margin-bottom: 5px;
+}
+
+article ul {
+  margin-top: 5px;
+  padding-left: 20px;
+}
+
+article ul li {
+  list-style: disc;
+  margin-bottom: 3px;
+}
+
+/* Educação */
+section p {
+  margin: 5px 0;
+  font-size: 0.95em;
+}
