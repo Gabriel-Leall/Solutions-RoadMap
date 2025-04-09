@@ -6,7 +6,7 @@ Este repositório foi criado para atender aos desafios do RoadMap.sh.
 
 ## Estrutura do Repositório
 
-- **Curriculo/**:
+- [**Curriculo/**](https://roadmap.sh/projects/single-page-cv) :
   - Contém um projeto de currículo online desenvolvido em HTML e CSS.
 
 ---
