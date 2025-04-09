@@ -2,7 +2,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 20px auto;
-  max-width: 800px; /* Limita a largura do currículo */
+  max-width: 800px; 
   line-height: 1.4;
   color: #333;
 }
@@ -11,10 +11,9 @@ body {
 header {
   display: flex;
   justify-content: space-between;
-  align-items: center; /* Centraliza verticalmente os itens */
+  align-items: center; 
   margin-bottom: 20px;
-  border-bottom: 2px solid #ccc; /* Linha separadora */
-  padding-bottom: 10px;
+  border-bottom: 2px solid #ccc; 
 }
 
 header div {
@@ -23,7 +22,7 @@ header div {
 
 .contatos {
   text-align: right;
-  font-size: 0.9em; /* Reduz o tamanho da fonte para compactar */
+  font-size: 0.9em; 
 }
 
 h1 {
@@ -34,7 +33,7 @@ h1 {
 h2 {
   font-size: 1.2em;
   color: green;
-  margin: 5px 0 0 0; /* Remove margem superior extra */
+  margin: 5px 0 0 0; 
 }
 
 /* Separadores */
